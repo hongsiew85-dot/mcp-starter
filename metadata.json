@@ -1,0 +1,6 @@
+{
+  "name": "Market Precision",
+  "description": "Institutional-grade market terminal and fintech platform with real-time analytics, technical charts, index monitors, heatmaps, and simulated order execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
